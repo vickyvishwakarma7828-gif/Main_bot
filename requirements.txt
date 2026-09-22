@@ -1,0 +1,7 @@
+aiogram>=3.13,<4
+aiohttp>=3.9,<4
+paytmchecksum==1.7.0
+pycryptodome>=3.20.0
+gram>=3.7,<4.0
+aiohttp>=3.9,<4.0
+paytmchecksum==1.7.0
